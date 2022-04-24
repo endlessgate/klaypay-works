@@ -38,5 +38,6 @@ testFunction()
 이름 | 속성 | 의미
 --- | :---: | :---:
 `receipt` | https://ko.docs.klaytn.com/dapp/sdk/caver-js/getting-started#checking-receipts | receipt 확인
+`에러코드` | https://ko.docs.klaytn.com/dapp/json-rpc/transaction-error-codes | 트랜잭션 에러코드
 `baobab` | https://api.baobab.klaytn.net:8651/ | testnet rpc url
 `cypress` | https://public-node-api.klaytnapi.com/v1/cypress | mainnet rpc url
