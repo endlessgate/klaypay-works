@@ -64,6 +64,7 @@ testFunction()
 --- | :---: | :---:
 `에러코드` | https://ko.docs.klaytn.com/dapp/json-rpc/transaction-error-codes | 트랜잭션 에러코드
 `receipt` | [check-receipts](https://ko.docs.klaytn.com/dapp/sdk/caver-js/getting-started#checking-receipts) | caver-js
+`참고자료` | [klay.sendRawTransaction](https://ko.docs.klaytn.com/dapp/sdk/caver-js/api-references/caver.rpc/klay#caver-rpc-klay-sendrawtransaction) | caver-js
 `참고자료` | [kip7.transfer](https://ko.docs.klaytn.com/dapp/sdk/caver-js/api-references/caver.kct/kip7#kip7-transfer) | caver-js
 `faucet` | https://baobab.wallet.klaytn.com/access?next=faucet | testnet faucet
 `baobab` | https://api.baobab.klaytn.net:8651/ | testnet rpc url
