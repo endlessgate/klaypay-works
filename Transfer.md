@@ -47,9 +47,11 @@ async function testFunction() {
     caver.wallet.add(keyring)
     
     // create kip7 instance
+    // caver.kct.kip7.create([tokenAddress])
     const kip7Instance = caver.kct.kip7.create('0xb74b7f6b977798fd0bfdea0242ddf58540b55429')
     
     // token transfer
+    // kip7.transfer(recipient, amount [, sendParam])
     const receipt = await kip7Instance.transfer('0x79912164B5E3B1d16EbD831767b4244445a41747', 1, { from: '0x14b5c52f2e37dcd76509e917ffe7043f37d30b19'})
     console.log(receipt)
 }
