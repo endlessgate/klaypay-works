@@ -2,7 +2,7 @@
  전송에 관한 caver-js 사용 방법
 
 ## Code Example
-# Klay 전송
+### Klay 전송
 ``` javascript
 const Caver = require('caver-js')
 const caver = new Caver('https://api.baobab.klaytn.net:8651/') // rpc url
