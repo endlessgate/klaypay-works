@@ -42,8 +42,8 @@ testFunction()
 ## 속성
 이름 | 속성 | 의미
 --- | :---: | :---:
-`receipt` | [check-receipts](https://ko.docs.klaytn.com/dapp/sdk/caver-js/getting-started#checking-receipts) | receipt 확인
 `에러코드` | https://ko.docs.klaytn.com/dapp/json-rpc/transaction-error-codes | 트랜잭션 에러코드
+`receipt` | [check-receipts](https://ko.docs.klaytn.com/dapp/sdk/caver-js/getting-started#checking-receipts) | caver-js
 `참고자료` | [klay.getBalance](https://ko.docs.klaytn.com/dapp/sdk/caver-js/api-references/caver.rpc/klay#caver-rpc-klay-getbalance) | caver-js
 `참고자료` | [kip7.balanceOf](https://ko.docs.klaytn.com/dapp/sdk/caver-js/api-references/caver.kct/kip7#kip7-balanceof) | caver-js
 `faucet` | https://baobab.wallet.klaytn.com/access?next=faucet | testnet faucet
